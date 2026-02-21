@@ -14,3 +14,5 @@ java -jar hotel-ment-0.0.1-SNAPSHOT.jar
 #Once is up and running hit below url in browser you can see out put as "Hotel details are here.."
 http://localhost:8084/hotel
 
+#To STOP the application 
+Ctrl+C
